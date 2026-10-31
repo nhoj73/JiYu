@@ -1,0 +1,7 @@
+# WorkBuddy 会话/记忆文件
+.workbuddy/
+# Python 缓存
+__pycache__/
+*.pyc
+# macOS 杂项
+.DS_Store
